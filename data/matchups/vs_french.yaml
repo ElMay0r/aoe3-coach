@@ -1,0 +1,14 @@
+matchup: French
+recommended_build: Fast Industrial (42 villagers Age I boom)
+key_shipments:
+  - Virginia Company
+  - 3 Settlers
+  - Town Militia
+  - 6 Longbowmen
+  - Highlanders
+notes: |
+  French players often execute a 12/10 Fast Fortress into grenadier rush. Build walls early and use Town Militia to snipe grenadiers:contentReference[oaicite:12]{index=12}.
+  After reaching Age III, ship Highlanders or 6 Longbowmen to stabilize.
+  Age up to Industrial quickly and send 3 Rockets to close the game.
+sources:
+  - https://eso-community.net/viewtopic.php?f=19&t=24025  # ESOC British guide

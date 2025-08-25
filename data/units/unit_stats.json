@@ -1,0 +1,45 @@
+{
+    "Longbowman": {
+      "cost": {"food": 60, "wood": 40},
+      "hp": 120,
+      "attack": 18,
+      "range": 20,
+      "multiplier_vs_heavy_infantry": 2.0
+    },
+    "Musketeer": {
+      "cost": {"food": 75, "gold": 25},
+      "hp": 150,
+      "attack": 24,
+      "range": 12,
+      "multiplier_vs_cavalry": 3.5
+    },
+    "Pikeman": {
+      "cost": {"food": 35, "gold": 40},
+      "hp": 120,
+      "attack": 18,
+      "range": 1,
+      "multiplier_vs_cavalry": 3.0
+    },
+    "Hussar": {
+      "cost": {"food": 120, "gold": 100},
+      "hp": 310,
+      "attack": 34,
+      "range": 0,
+      "multiplier_vs_light_infantry": 3.0
+    },
+    "Dragoon": {
+      "cost": {"food": 150, "gold": 100},
+      "hp": 250,
+      "attack": 15,
+      "range": 16,
+      "multiplier_vs_cavalry": 4.0
+    },
+    "Rocket": {
+      "cost": {"food": 500, "gold": 500},
+      "hp": 300,
+      "attack": 80,
+      "range": 34,
+      "multiplier_vs_infantry": 3.0
+    }
+  }
+  
